@@ -1,0 +1,168 @@
+mint-themes-gtk3 (3.14+7) betsy; urgency=medium
+
+  [ JosephMcc ]
+  * minor: make the nemo statusbar buttons square instead of slightly rectangular
+  * fix the middle active button in Gtk StackSwitcher
+  * 3.14: Tweak styling of list box rows, level bars, and remove bold labels from active GtkStackSwitcher button
+  * use a new style class in cinnamon-settings to theme SettingsBox headers
+  * 3.14: Improve the look of symbolic icons on primary toolbars
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 22 May 2015 13:17:00 +0200
+
+mint-themes-gtk3 (3.14+6) betsy; urgency=medium
+
+  * Only force non-symbolic icons in sidebar treeviews and tweak the padding values of those widgets.
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 15 Feb 2015 15:49:52 +0100
+
+mint-themes-gtk3 (3.14+5) betsy; urgency=medium
+
+  * Disabled symbolic icons
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 14 Feb 2015 16:44:51 +0100
+
+mint-themes-gtk3 (3.14+4) betsy; urgency=medium
+
+  * Restyled CSD header bars to better match standard titlebars
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 14 Feb 2015 16:22:35 +0100
+
+mint-themes-gtk3 (3.14+3) betsy; urgency=medium
+
+  * Added missing null.png in colored themes (GTK 3.14)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 04 Feb 2015 10:05:15 +0100
+
+mint-themes-gtk3 (3.14+2) betsy; urgency=medium
+
+  * Added missing ${misc:Depends}
+  * A few tweaks, add some missing style classes and improve the GtkFileChooser pathbar
+  * Updated all the color variations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 03 Feb 2015 09:11:48 +0100
+
+mint-themes-gtk3 (3.14-1) betsy; urgency=medium
+
+  * Fixes for GTK 3.14
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 20 Jan 2015 12:31:39 +0100
+
+mint-themes-gtk3 (3.10-7) rebecca; urgency=medium
+
+  * Fixed some range sliders in color variations
+  * Added an aqua version of the theme
+  * Added a brown version of the theme
+  * Added a purple version of the theme
+  * Added a red version of the theme
+  * Added a sand colored theme
+  * Added a teal colored version of the theme
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 01 Nov 2014 14:30:52 +0100
+
+mint-themes-gtk3 (3.10-6) rebecca; urgency=medium
+
+  * add some styling for fine-tune range sliders
+  * restyle raised/linked primary toolbar buttons
+  * add some basic theming for cinnamon fallback mode
+  * Add a Blue theme
+  * add an orange version of the theme
+  * add a pink version of the theme
+  * update Debian files
+  * Added GTK3 theme thumbnail
+  * Added thumbnails for Blue, Orange and Pink
+  * add support for insensitive icon views and add a couple of recent updates to Mint-X to the color variations. Additions such as fine-tune slider themeing and fallback panel themeing
+  * fix the bg color of the pane separator handle in notebooks
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 30 Sep 2014 11:06:47 +0200
+
+mint-themes-gtk3 (3.10-5) qiana; urgency=medium
+
+  * fix black bg in evolution
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 21 May 2014 11:15:49 +0100
+
+mint-themes-gtk3 (3.10-4) qiana; urgency=medium
+
+  * Fixes on gtk switch
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 06 May 2014 16:25:37 +0100
+
+mint-themes-gtk3 (3.10-3) qiana; urgency=medium
+
+  * Fixes from Joseph
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 01 May 2014 15:11:56 +0100
+
+mint-themes-gtk3 (3.10-2) qiana; urgency=medium
+
+  * Fixes from Joseph
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 13 Apr 2014 16:07:05 +0100
+
+mint-themes-gtk3 (3.10-1) qiana; urgency=medium
+
+  * Revamp from Joseph
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 10 Apr 2014 11:10:38 +0100
+
+mint-themes-gtk3 (3.8-9) petra; urgency=low
+
+  * JosephM: fix treeview spacing
+  * JosephM: fix the large sizing of nemo status bar button
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 22 Nov 2013 10:05:09 +0000
+
+mint-themes-gtk3 (3.8-8) petra; urgency=low
+
+  * Improvements from JosephM (spin buttons, buttons, toolbars..)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 11 Nov 2013 14:21:44 +0000
+
+mint-themes-gtk3 (3.8-7) petra; urgency=low
+
+  * Removed green shade on default buttons
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 08 Nov 2013 14:52:44 +0000
+
+mint-themes-gtk3 (3.8-6) petra; urgency=low
+
+  * GTK2 buttons
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 07 Nov 2013 16:25:23 +0000
+
+mint-themes-gtk3 (3.8-5) petra; urgency=low
+
+  * Don't highlight checkboxes and radiobuttons on hover/active
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 30 Oct 2013 11:22:26 +0000
+
+mint-themes-gtk3 (3.8-4) petra; urgency=low
+
+  * Fixed widget backgrounds in notebooks in cinnamon-settings
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 29 Oct 2013 16:02:23 +0000
+
+mint-themes-gtk3 (3.8-3) petra; urgency=low
+
+  * Fixed missing menu borders (visible without acceleration where shadows aren't rendered)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 19 Oct 2013 01:13:07 +0100
+
+mint-themes-gtk3 (3.8-2) petra; urgency=low
+
+  * Fixed missing menu separators
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 18 Oct 2013 23:14:40 +0100
+
+mint-themes-gtk3 (3.8-1) petra; urgency=low
+
+  * Compatible with GTK 3.8
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 12 Sep 2013 13:06:43 +0100
+
+mint-themes-gtk3 (3.6-1) olivia; urgency=low
+
+  * Compatible with GTK 3.6
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu,  12 Sep 2013 11:24:00 +0000
+
